@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-WitchHunt-9531.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Daniela\Documents\Unreal Projects\WitchHunt\Intermediate\Build\Win64\WitchHuntEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\WitchHunt\Intermediate\Build\Win64\UE4Editor\Development\WitchHunt\MyCharacter.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\WitchHunt\Intermediate\Build\Win64\UE4Editor\Development\WitchHunt\WitchHunt.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\WitchHunt\Intermediate\Build\Win64\UE4Editor\Development\WitchHunt\WitchHuntGameModeBase.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\WitchHunt\Intermediate\Build\Win64\UE4Editor\Development\WitchHunt\MyCharacter.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\WitchHunt\Intermediate\Build\Win64\UE4Editor\Development\WitchHunt\WitchHunt.init.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\WitchHunt\Intermediate\Build\Win64\UE4Editor\Development\WitchHunt\WitchHuntGameModeBase.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\WitchHunt\Intermediate\Build\Win64\UE4Editor\Development\WitchHunt\PCLaunch.rc.res"
+/OUT:"C:\Users\Daniela\Documents\Unreal Projects\WitchHunt\Intermediate\Build\Win64\UE4Editor\Development\WitchHunt\UE4Editor-WitchHunt-9531.lib"

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\WitchHunt.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C41453A0-12F0-4EB1-AC0B-AA84BAFC7766}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WitchHunt.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WitchHuntEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4A3E16BC-CEB8-4814-957D-5C430B492679}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\WitchHunt">
+      <UniqueIdentifier>{4B9A6511-459F-4D91-A649-D81038647417}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WitchHunt\MyCharacter.cpp">
+      <Filter>Source\WitchHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WitchHunt\MyCharacter.h">
+      <Filter>Source\WitchHunt</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\WitchHunt\WitchHunt.Build.cs">
+      <Filter>Source\WitchHunt</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\WitchHunt\WitchHunt.cpp">
+      <Filter>Source\WitchHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WitchHunt\WitchHunt.h">
+      <Filter>Source\WitchHunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WitchHunt\WitchHuntGameModeBase.cpp">
+      <Filter>Source\WitchHunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WitchHunt\WitchHuntGameModeBase.h">
+      <Filter>Source\WitchHunt</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\WitchHunt\Projectile.h">
+      <Filter>Source\WitchHunt</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\WitchHunt\Projectile.cpp">
+      <Filter>Source\WitchHunt</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
