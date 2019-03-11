@@ -6,7 +6,7 @@
 class UShapeComponent;
 
 UCLASS()
-class WitchHunt_API AEnemy : public AActor
+class WITCHHUNT_API AEnemy : public AActor
 {
 	GENERATED_BODY()
 	
